@@ -1,0 +1,7 @@
+*.pyc
+#.env
+#kanalservis_script/kanalservise-9a82a0b9ccbb.json
+.idea
+__pycache__
+venv
+.DS_Store
