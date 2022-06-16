@@ -2,13 +2,14 @@
 Данное приложение разработано в качестве тестового задания
 
 ## Запуск проекта
+```
 git clone https://github.com/krestovsky13/Script-Google-API
-
-## Build
+```
+### Build
 ```
 docker-compose build
 ```
-## Run
+### Run
 ```
 docker-compose up -d
 ```
